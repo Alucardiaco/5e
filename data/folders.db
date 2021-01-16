@@ -1,0 +1,21 @@
+{"name":"Capitulo 3","type":"Scene","sort":300000,"flags":{},"parent":null,"color":"#3956ac","_id":"1pRb6EbjPvkOLDwK"}
+{"_id":"53eZ3M63T3R5JcTt","name":"Lost Mine of Phandelver","type":"JournalEntry","sort":0,"flags":{},"parent":null,"color":"#05ff44"}
+{"name":"Tokens","type":"Item","sort":200000,"flags":{},"parent":"Z027hAR0gum66ZuT","sorting":"a","color":"","_id":"CPciWgKEsWAR8TFB"}
+{"name":"Capitulo 2 ","type":"Scene","sort":200000,"flags":{},"parent":null,"color":"","_id":"GmHgh2yRsfdLywaJ"}
+{"name":"Personaje","type":"Actor","sort":300000,"flags":{},"parent":null,"color":"","_id":"Jp5as3NwmMhu3JqW"}
+{"_id":"PTGEK8JSaMgJzpNR","name":"Variant & Optional Rules","type":"JournalEntry","sort":300000,"flags":{},"parent":null}
+{"name":"Pick-Up-Stix","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"Z027hAR0gum66ZuT"}
+{"_id":"Z0l61d8rFsNC6i4N","name":"Capitulo 1 ","type":"Scene","sort":100000,"flags":{},"parent":null,"color":"#ff0000"}
+{"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"_id":"ZFHM8EBXOqWub4qY"}
+{"_id":"bEfsedeu2MYRxHll","name":"NPC´s","type":"Actor","sort":100000,"flags":{},"parent":null,"color":"#a63636"}
+{"_id":"dAAMjXD4Gtv3vmzC","name":"Tesoros ","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"color":"#b3ff00"}
+{"_id":"dV1wRYz4dKmiTR1B","name":"Misc","type":"Scene","sort":null,"flags":{},"parent":null,"color":"#045347"}
+{"_id":"fnfI4CNZTxaWyuuD","name":"Presentacion","type":"JournalEntry","sort":200000,"flags":{},"parent":null,"color":"#ff0000"}
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":null,"_id":"kVf4ry2A3cfFTXZi"}
+{"_id":"nMMKooDPNzz6qTcZ","name":"Informacion que cura","type":"JournalEntry","sort":400000,"flags":{},"parent":null,"color":""}
+{"name":"Items","type":"Item","sort":300000,"flags":{},"parent":"Z027hAR0gum66ZuT","sorting":"a","color":"","_id":"nUH9kEJJZrMuKSrG"}
+{"_id":"q3X7xyUC9b4JCvUp","name":"Creatures","type":"Actor","sort":0,"flags":{},"parent":null,"color":"#008055"}
+{"_id":"rd8TdwDhMjP4dBSr","name":"Preparacion de sesion","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"color":"#844ef9"}
+{"name":"L.M.O.P - C2","type":"JournalEntry","sort":700000,"flags":{},"parent":"dAAMjXD4Gtv3vmzC","color":"","_id":"sgI4JhdCq0B09fEB"}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"_id":"vb2m8YCZGNaVUicW"}
+{"_id":"xTjE3KBRQSCIENXw","name":"Manual de Jugador","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"color":"#00ccff"}
